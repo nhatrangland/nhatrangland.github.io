@@ -1,6 +1,6 @@
 # NhaTrangLand.org
 
-Bản nháp trang GitHub Pages giới thiệu thương hiệu NhaTrangLand.org. Thư mục này sẵn sàng để đẩy lên repo `nhatrangland.github.io` khi được phép. Hiện chưa tạo repo trên GitHub và chưa đẩy mã.
+Trang GitHub Pages giới thiệu thương hiệu NhaTrangLand.org, xem tại https://nhatrangland.github.io. Dữ liệu và tin đăng đầy đủ nằm trên website chính https://nhatrangland.org.
 
 ## Thương hiệu
 
@@ -14,8 +14,4 @@ Bản nháp trang GitHub Pages giới thiệu thương hiệu NhaTrangLand.org. 
 
 ## Nội dung repo
 
-- `index.html`: trang tĩnh tiếng Việt, không dùng JavaScript ngoài. Có JSON-LD `Organization` / `RealEstateAgent`. Liên kết nhìn thấy trên trang chỉ dẫn một chiều về website chính và thông tin liên hệ (Zalo, email). Không tạo vòng liên kết sang các kênh vệ tinh.
-
-## Ghi chú khi đẩy (chưa thực hiện)
-
-Tài khoản [github.com/nhatrangland](https://github.com/nhatrangland) đã tồn tại (User), hiện không có public repo. Khi được phép, tạo repo công khai `nhatrangland.github.io` dưới tài khoản này rồi đẩy nội dung thư mục. URL mặc định sẽ là `https://nhatrangland.github.io`. Không gắn CNAME trùng domain `nhatrangland.org`.
+- `index.html`: trang tĩnh tiếng Việt, không dùng JavaScript ngoài. Có JSON-LD `Organization` / `RealEstateAgent`.
